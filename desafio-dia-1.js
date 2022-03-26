@@ -16,7 +16,7 @@ else
 
 if (numeroCinco === stringCinco) 
 {
-  console.log('As variáveis numeroTrinta e stringTrinta tem o mesmo valor e mesmo tipo');
+  console.log('As variáveis numeroCinco e stringCinco tem o mesmo valor e mesmo tipo');
 } 
 else 
 {
