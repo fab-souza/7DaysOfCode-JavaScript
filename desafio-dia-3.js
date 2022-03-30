@@ -40,15 +40,12 @@ function Back() {
 function fullstack() {
   aprender.innerHTML =
     "Você digitou uma opção diferente. Está pensando na área de Fullstack?";
-  var sobreFullStack = input(
-    "Quer saber mais sobre esta área? Digite '1' para 'SIM' ou '2' para 'NÃO'."
-  );
-  if (sobreFullStack == 1) {
-    textofullstack.innerHTML =
-      "Legal! Vamos fazer uma lista das tecnologias que você quer aprender.";
-    lista = prompt("Digite a linguagem:");
-    do
-  } else {
-    alert("Fim do código");
+  let msg = prompt("Tem mais alguma tecnologia que você gostaria de aprender? Digite 'ok' em caso positivo.");
+  while (msg === "ok"){
+      let novaTecnologia = prompt("Qual?");
+      alert(`${novaTecnologia} é realmente uma tecnologia muito legal!`)
+      msg = prompt("Tem mais alguma tecnologia que você gostaria de aprender? Digite 'ok' em caso positivo.");
   }
 }
+  
+
