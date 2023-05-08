@@ -6,13 +6,13 @@
 
 ## Sobre o desafio 📚
 
-Eu não tenho muito conhecimento em JavaScript, mas decidi topar o desafio do #7DaysOfCode, organizado pela [Alura](https://www.alura.com.br/).
+Eu não tenho muito conhecimento em JavaScript, mas decidi topar o desafio do #7DaysOfCode, organizado pela [Alura](https://www.alura.com.br/), e ver o que consigo entregar e aprender.
 
 
 
 ## Minha prática 👩🏻‍💻
 
-### Desafio 1
+### Desafio 1: Operações Booleanas
 
 "[...] reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:"
 
@@ -40,3 +40,17 @@ Eu não tenho muito conhecimento em JavaScript, mas decidi topar o desafio do #7
     } else {
       console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
     }
+
+
+
+### Desafio 2: Variáveis
+
+### Desafio 3: Fluxo de decisão
+
+### Desafio 4: Mais loops e randomização
+
+### Desafio 5: Arrays e coleções
+
+### Desafio 6: Remoção de Arrays
+
+### Desafio 7: Funções em Javascript
