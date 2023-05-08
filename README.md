@@ -2,7 +2,10 @@
 
 ![Badge code size](https://img.shields.io/github/languages/code-size/fab-souza/7DaysOfCode-JavaScript)
 
-Eu não tenho muito conhecimento em JavaScript, mas decidi topar o desafio do #7DaysOfCode organizado pela Alura e disponível em https://7daysofcode.io/
+![capa](https://user-images.githubusercontent.com/67301805/236820170-6b9cd31b-6083-4dae-9e01-d3ec78e47eaa.jpg)
+
+
+Eu não tenho muito conhecimento em JavaScript, mas decidi topar o desafio do #7DaysOfCode, organizado pela [Alura](https://www.alura.com.br/).
 
 ## Desafio 1
 
