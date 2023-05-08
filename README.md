@@ -8,6 +8,10 @@
 
 Eu não tenho muito conhecimento em JavaScript, mas decidi topar o desafio do #7DaysOfCode, organizado pela [Alura](https://www.alura.com.br/).
 
+
+
+## Minha prática 👩🏻‍💻
+
 ### Desafio 1
 
 "[...] reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:"
