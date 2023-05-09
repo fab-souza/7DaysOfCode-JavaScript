@@ -2,6 +2,13 @@
 
 ![Badge code size](https://img.shields.io/github/languages/code-size/fab-souza/7DaysOfCode-JavaScript)
 
+| :placard: Vitrine.Dev |    |
+| -------------  | --- |
+| :sparkles: Nome        | **7 Days Of Code - JavaScript**
+| :label: Tecnologias | javascript
+| :rocket: URL         | 
+| :fire: Desafio     |
+
 ![capa](https://user-images.githubusercontent.com/67301805/236820170-6b9cd31b-6083-4dae-9e01-d3ec78e47eaa.jpg)
 
 ## Sobre o desafio 📚
