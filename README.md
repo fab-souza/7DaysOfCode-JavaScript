@@ -52,6 +52,13 @@ Eu não tenho muito conhecimento em JavaScript, mas decidi topar o desafio do #7
 
 ### Desafio 2: Variáveis
 
+"[...] desenvolver um programa que captura e armazena valores dentro de variáveis. Pedindo para o usuário responder 3 perguntas:"
+
+        Qual o seu nome?
+        Quantos anos você tem?
+        Qual linguagem de programação você está estudando?
+
+
 ### Desafio 3: Fluxo de decisão
 
 ### Desafio 4: Mais loops e randomização
