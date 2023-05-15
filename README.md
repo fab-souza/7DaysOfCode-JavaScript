@@ -61,6 +61,10 @@ Eu não tenho muito conhecimento em JavaScript, mas decidi topar o desafio do #7
 
 ### Desafio 3: Fluxo de decisão
 
+"Eu quero que você trabalhe com estruturas de controle de fluxo. Esse jeito complicado de falar só quer dizer que, a história que você montar precisa se adaptar às respostas dadas por quem está jogando. Para isso, você vai precisar de algumas estruturas capazes de alterar o fluxo da aplicação, como *for*, *while*, *if* e *else*."
+
+
+
 ### Desafio 4: Mais loops e randomização
 
 ### Desafio 5: Arrays e coleções
