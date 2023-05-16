@@ -67,6 +67,18 @@ Eu não tenho muito conhecimento em JavaScript, mas decidi topar o desafio do #7
 
 ### Desafio 4: Mais loops e randomização
 
+"[...] criar um código que comece com um valor específico pré-definido, entre 0 a 10, para o número que o usuário deve adivinhar.
+
+Em seguida, o programa deve perguntar qual o valor que o usuário deseja chutar e, caso acerte, ele irá te parabenizar. Caso erre, ele vai te dar mais 2 tentativas.
+
+No fim, caso você não acerte nenhuma vez, ele vai imprimir qual era o número inicial."
+
+
+
+
+
+
+
 ### Desafio 5: Arrays e coleções
 
 ### Desafio 6: Remoção de Arrays
