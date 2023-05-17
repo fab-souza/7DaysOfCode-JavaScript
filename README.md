@@ -15,10 +15,6 @@
 
 Eu não tenho muito conhecimento em JavaScript, mas decidi topar o desafio do #7DaysOfCode, organizado pela [Alura](https://www.alura.com.br/), e ver o que consigo entregar e aprender.
 
-
-
-## Minha prática 👩🏻‍💻
-
 ### Desafio 1: Operações Booleanas
 
 "[...] reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:"
@@ -84,3 +80,7 @@ No fim, caso você não acerte nenhuma vez, ele vai imprimir qual era o número 
 ### Desafio 6: Remoção de Arrays
 
 ### Desafio 7: Funções em Javascript
+
+## Minha prática 👩🏻‍💻
+
+
