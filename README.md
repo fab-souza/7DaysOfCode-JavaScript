@@ -121,3 +121,4 @@ Lembre-se que a opção de remover um item só deverá estar disponível a parti
 ## Minha prática 👩🏻‍💻
 
 
+## Ferramentas utilizadas 🧰
