@@ -118,6 +118,16 @@ Lembre-se que a opção de remover um item só deverá estar disponível a parti
 
 ### Desafio 7: Funções em Javascript
 
+"[...] criar sua própria calculadora."
+
+
+
+
+
+
+
+
+
 ## Minha prática 👩🏻‍💻
 
 
